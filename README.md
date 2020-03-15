@@ -7,4 +7,5 @@ notes:
   - the bindings does not cover the whole hb api
   - no tests yet
   - the nimgen.cfg is just a sketch and the bindings generation requires a manual step of preprocess
+  - closely inspired by HarfBuzzSharp
   
